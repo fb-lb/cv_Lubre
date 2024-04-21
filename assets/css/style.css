@@ -68,6 +68,14 @@ header {
     border-radius: 50%;
 }
 
+#profil img:hover {
+    cursor:zoom-in;
+}
+
+#profil a:hover {
+    cursor:default;
+}
+
 #name {
     text-transform:uppercase;
     font-family: "Lato", Arial, sans-serif;
