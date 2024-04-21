@@ -178,6 +178,10 @@ footer {
     justify-content: center;
 }
 
+#icons img:hover {
+    opacity: 75%;
+}
+
 footer img {
     height: 40px;
     width: 40px;
