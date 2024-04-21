@@ -142,3 +142,30 @@ main {
     border-left: solid 7px #782221;
     text-indent: 7px;
 }
+
+footer {
+    background-color: #782221;
+    color: white;
+    box-sizing: border-box;
+    padding: 20px 0 20px 0;
+}
+
+#icons {
+    height: 40px;
+    display: flex;
+    column-gap: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+footer img {
+    height: 40px;
+    width: 40px;
+    border-radius: 15%;
+}
+
+footer p{
+    margin: 25px 0 0 0;
+    display: flex;
+    justify-content: center;
+}
